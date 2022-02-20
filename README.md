@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abdus Samad.
-- 👀 I’m interested in working on intresting projects.
-- 🌱 I’m currently learning Web Development.
+- 👀 I'm a frontend React.js developer.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 Reach me at samad.abdus3535@gmail.com
 
