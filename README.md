@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://asamad.vercel.app"><img src="assets/banner.png" alt="Abdus Samad — I build and ship. Streaming platforms, AI support agents, learning networks." width="100%"></a>
+<a href="https://asamad.vercel.app"><img src="assets/banner.webp" alt="asamad.vercel.app — I build and ship streaming backends: the portfolio hero with its point-cloud figure" width="100%"></a>
 
 <br>
 
@@ -25,13 +25,13 @@ Five years shipping for millions of users, now building production LLM agents. L
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://asamad.vercel.app/work/boondi"><img src="assets/card-boondi.png" alt="Boondi — A WhatsApp concierge that sells mithai, safely." width="100%"></a>
+<a href="https://asamad.vercel.app/work/boondi"><img src="assets/card-boondi.webp" alt="Boondi — A WhatsApp concierge that sells mithai, safely." width="100%"></a>
 <b>Boondi</b> · WhatsApp AI concierge for Bombay Sweet Shop, built solo on the Anthropic Claude API and MCP: Gantry agent host, two MCP servers, Next.js admin console, PostgreSQL + pgvector, ECS Fargate via Terraform.<br><br>
 <b>250+</b> customer chats a day · <b>$0.02</b> per conversation · <b>94.6%</b> prompt-cache hit rate · <b>1,200+</b> sales leads in two months · <b>285</b> concurrent turns on real AWS<br><br>
 <a href="https://asamad.vercel.app/work/boondi">Case study</a> · <a href="https://wa.me/919136192636?text=Hi%20Boondi!">Chat with it</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://asamad.vercel.app/work/gantry"><img src="assets/card-gantry.png" alt="Gantry — Build AI employees that follow the rules you set." width="100%"></a>
+<a href="https://asamad.vercel.app/work/gantry"><img src="assets/card-gantry.webp" alt="Gantry — Build AI employees that follow the rules you set." width="100%"></a>
 <b>Gantry</b> · open-source, self-hosted agent runtime from KnackLabs (MIT). First production adopter: I maintain the production fork Boondi runs on, extended it for a customer-facing agent, and feed capacity findings upstream.<br><br>
 One permission model across Slack, Teams, Telegram, Discord, SDK and WhatsApp · identity, memory, jobs and audit reused instead of rebuilt<br><br>
 <a href="https://asamad.vercel.app/work/gantry">Case study</a> · <a href="https://github.com/knacklabs/gantry">Repository</a>
@@ -39,13 +39,13 @@ One permission model across Slack, Teams, Telegram, Discord, SDK and WhatsApp ·
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://asamad.vercel.app/work/hoichoi"><img src="assets/card-hoichoi.png" alt="hoichoi — Bengali stories, streamed to a hundred countries." width="100%"></a>
+<a href="https://asamad.vercel.app/work/hoichoi"><img src="assets/card-hoichoi.webp" alt="hoichoi — Bengali stories, streamed to a hundred countries." width="100%"></a>
 <b>hoichoi</b> · NestJS + GraphQL services on MongoDB for the largest Bengali OTT platform as it left its SaaS stack, plus the content CMS frontend and the migration tooling.<br><br>
 <b>10M+</b> requests an hour · <b>40M</b> user records migrated at 99.9% uptime · publishing time <b>−50%</b> · CloudWatch spend <b>−70%</b><br><br>
 <a href="https://asamad.vercel.app/work/hoichoi">Case study</a> · <a href="https://hoichoi.tv/">hoichoi.tv</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://asamad.vercel.app/work/gurucool"><img src="assets/card-gurucool.png" alt="Gurucool — The social network your parents would approve of." width="100%"></a>
+<a href="https://asamad.vercel.app/work/gurucool"><img src="assets/card-gurucool.webp" alt="Gurucool — The social network your parents would approve of." width="100%"></a>
 <b>Gurucool</b> · founding front-end engineer at an edtech network in eight Indian languages: the Next.js app and component library from the first commit, a React Query data layer against a moving backend, and the investor site shipped ahead of deadline.<br><br>
 The pre-seed round followed · the platform grew to 3,000+ courses<br><br>
 <a href="https://asamad.vercel.app/work/gurucool">Case study</a> · <a href="https://gurucool.xyz/">gurucool.xyz</a>
