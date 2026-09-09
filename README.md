@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://asamad.vercel.app"><img src="assets/banner.webp" alt="asamad.vercel.app — I build and ship streaming backends: the portfolio hero with its point-cloud figure" width="100%"></a>
+<a href="https://asamad.vercel.app"><img src="assets/banner.png" alt="asamad.vercel.app — I build and ship agent harness: the portfolio hero with its blue point-cloud figure" width="100%"></a>
 
 <br>
 
